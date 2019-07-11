@@ -1,4 +1,4 @@
-writing tools(class) pen, highlighter, sharpie (instances)
+writing tool(class) pen, highlighter, sharpie (instances)
 
 attributes: Each writing tool has a color, a point, and ink
 
