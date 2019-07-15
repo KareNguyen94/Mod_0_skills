@@ -1,5 +1,21 @@
-Food (class) pizza, spaghetti, sandwich
+Class: Class_room
 
-attributes: each food has taste, smell, texture
+Attributes:
 
-Methods: each food can be chewed, swallowed, or spit up
+Students (["jim", "pam", "ryan")
+
+Teacher ("Mr. Ross")
+
+Subject ("english")
+
+Time ("01:15pm")
+
+Methods:
+
+Get_Teacher () => "Mr. Ross"
+
+List_Students () => "jim, pam, ryan"
+
+Get_Time () => "01:15pm"
+
+Add_Student ("dwight") => Adds "dwight" to the Students array
