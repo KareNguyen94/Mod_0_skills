@@ -10,21 +10,21 @@
     
     1.1.1 online classes
       
-     1.1.1.1 be active in zoom
+      1.1.1.1 be active in zoom
         
-      1.1.1.1.1 ask questions
+        1.1.1.1.1 ask questions
           
-      1.1.1.1.2 answer questions
+        1.1.1.1.2 answer questions
           
-      1.1.1.1.3 help each other
+        1.1.1.1.3 help each other
           
-        1.1.1.1.1.1 reaching out on slack
+          1.1.1.1.1.1 reaching out on slack
             
-        1.1.1.1.1.2 asking question on homework
+          1.1.1.1.1.2 asking question on homework
             
-          1.1.1.1.1.1.1 explaining the difference between methods and attributes
+            1.1.1.1.1.1.1 explaining the difference between methods and attributes
               
-          1.1.1.1.1.1.2 what is the git workflow
+            1.1.1.1.1.1.2 what is the git workflow
               
    1.1.2 install git github
       
