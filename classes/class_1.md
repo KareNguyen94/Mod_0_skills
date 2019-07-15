@@ -6,18 +6,22 @@ Age (integer)
 
 Name (string)
 
-Email_address (string)
+Student_ID (sting)
 
-CompletedHomework (boolean)
+Email_address (string)
 
 Gender (string)
 
+Classes (array)
+
 Methods:
 
-How_old_is_she/he (take current year - student birth year)
-
-Put_students_alphabetical_order (take last names and arrange it from A-Z)
+Get age (return age attribute)
 
 Change_email_address (modifies the email_address attribute)
 
-Is_homework_finished (either yes or no)
+Get name (return name attribute)
+
+Add class (add class to the array)
+
+List classes (list all classes in class attribute)
