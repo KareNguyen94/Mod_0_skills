@@ -1,13 +1,21 @@
-Class: Lunch
+Class: Class_room
 
 Attributes:
-Time (integer)
-Food (string)
-Balance (array)
-Prices (array)
+
+Students (array)
+
+Teacher (string)
+
+Subject (string)
+
+Time (string)
 
 Methods:
-When_is_lunch_over (deduct current time with end of lunch break)
-What_is_for_lunch (modifies a string of various items on menu)
-Deposit/withdraw_from_lunch_account (modifies the balance)
-Pay_for_lunch (how much change to get back food price -money given)
+
+Get_Teacher (return the value of teacher attribute)
+
+List_Students (returns all students from the Students attribute)
+
+Get_Time (returns time of class from the Time attribute)
+
+Add_Student (Adds student to the Students array attribute)
